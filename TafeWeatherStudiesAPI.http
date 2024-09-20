@@ -1,0 +1,6 @@
+@TafeWeatherStudiesAPI_HostAddress = http://localhost:5140
+
+GET {{TafeWeatherStudiesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
